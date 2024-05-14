@@ -1,7 +1,7 @@
 ## Customer_banking
 Design a banking application that will compute the earned interest and ending balance of a savings and CD account
 
-## Introduction:
+## Introdon:
 
 
 Functionality include:
